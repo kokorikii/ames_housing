@@ -1,4 +1,4 @@
-# Project 2: Ames Housing Analysis Readme
+# Ames Housing Analysis Readme
 
 ## Problem Statement
 
